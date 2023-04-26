@@ -1,2 +1,2 @@
 # Sudoku
-Sudoku in Java
+Implementation of the classical Sudoku game.
